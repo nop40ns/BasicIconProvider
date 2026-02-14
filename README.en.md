@@ -1,6 +1,9 @@
 [日本語版 README → README.md](README.md)
  
 # BasicIconProvider
+![NuGet](https://img.shields.io/nuget/v/Nop40ns.BasicIconProvider)
+![Downloads](https://img.shields.io/nuget/dt/Nop40ns.BasicIconProvider)
+
 
 **BasicIconProvider** is a **minimal learning-oriented library** for retrieving  
 **file and folder icons in WPF applications**.
