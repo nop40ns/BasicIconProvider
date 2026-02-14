@@ -1,5 +1,8 @@
 [English README is here → README.en.md](README.en.md)
 # BasicIconProvider
+![NuGet](https://img.shields.io/nuget/v/Nop40ns.BasicIconProvider)
+![Downloads](https://img.shields.io/nuget/dt/Nop40ns.BasicIconProvider)
+
 
 **BasicIconProvider** は、WPF アプリケーションで  
 **ファイルやフォルダのアイコンを取得するための「最小限の学習用ライブラリ」** です。
