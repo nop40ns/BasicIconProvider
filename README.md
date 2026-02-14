@@ -23,10 +23,8 @@ WPF でアイコンを扱う最初のステップとして最適です。
 ---
 
 ## 📦 プロジェクト構成
-```
-/src /BasicIconProvider BasicIconProvider.cs IconSize.cs ShellInterop.cs
-/BasicIconProviderSample MainWindow.xaml MainWindow.xaml.cs SampleFileItem.cs
-```
+```/src /BasicIconProvider BasicIconProvider.cs IconSize.cs ShellInterop.cs
+/BasicIconProviderSample MainWindow.xaml MainWindow.xaml.cs SampleFileItem.cs```
 - **BasicIconProvider**  
   → ライブラリ本体（DLL）
 
@@ -36,12 +34,10 @@ WPF でアイコンを扱う最初のステップとして最適です。
 ---
 
 ## 🧩 使い方（サンプル）
-``` 
-csharp
+```csharp
 using BasicIconProvider;
 
-var icon = BasicIconProvider.GetIcon(@"C:\Windows\explorer.exe", IconSize.Large);
-```
+var icon = BasicIconProvider.GetIcon(@"C:\Windows\explorer.exe", IconSize.Large);```
 
 ## 📄 License
 
