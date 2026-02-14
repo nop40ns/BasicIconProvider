@@ -1,10 +1,27 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net8.0-windows</TargetFramework>
-    <Nullable>enable</Nullable>
-    <UseWPF>true</UseWPF>
-    <ImplicitUsings>enable</ImplicitUsings>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWPF>true</UseWPF>
+		<ImplicitUsings>enable</ImplicitUsings>
+
+		<!-- NuGet metadata -->
+		<PackageId>BasicIconProvider</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>nop40ns</Authors>
+		<Company>nop40ns</Company>
+		<Product>BasicIconProvider</Product>
+		<Description>Minimal, learning-oriented WPF library for retrieving file and folder icons using Windows SHGetFileInfo.</Description>
+		<PackageProjectUrl>https://github.com/nop40ns/BasicIconProvider</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/nop40ns/BasicIconProvider</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PackageTags>wpf;icons;windows;shell;shgetfileinfo;learning</PackageTags>
+
+		<!-- Include README in the package -->
+		<IncludePackageReadmeFile>true</IncludePackageReadmeFile>
+	</PropertyGroup>
 
 </Project>
