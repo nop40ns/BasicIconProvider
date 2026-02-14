@@ -36,8 +36,9 @@ WPF でアイコンを扱う最初のステップとして最適です。
 ---
 
 ## 🧩 使い方（サンプル）
-```
+
 csharp
+```
 using BasicIconProvider;
 
 var icon = BasicIconProvider.GetIcon(@"C:\Windows\explorer.exe", IconSize.Large);
