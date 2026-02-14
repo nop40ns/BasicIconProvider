@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicIconProviderSample", "src\BasicIconProviderSample\BasicIconProviderSample.csproj", "{08DD20C4-58C0-4FF9-AF70-542CFBDF9451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicIconProvider", "src\BasicIconProvider\BasicIconProvider.csproj", "{6DA85F39-2C0E-5F5B-E3C6-56FF7CE78B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08DD20C4-58C0-4FF9-AF70-542CFBDF9451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DD20C4-58C0-4FF9-AF70-542CFBDF9451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DD20C4-58C0-4FF9-AF70-542CFBDF9451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DD20C4-58C0-4FF9-AF70-542CFBDF9451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA85F39-2C0E-5F5B-E3C6-56FF7CE78B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA85F39-2C0E-5F5B-E3C6-56FF7CE78B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA85F39-2C0E-5F5B-E3C6-56FF7CE78B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA85F39-2C0E-5F5B-E3C6-56FF7CE78B69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D04143A9-1708-4B60-BB68-3881F934162D}
+	EndGlobalSection
+EndGlobal
