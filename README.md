@@ -1,4 +1,5 @@
-﻿# BasicIconProvider
+[English README is here → README.en.md](README.en.md)
+# BasicIconProvider
 
 **BasicIconProvider** は、WPF アプリケーションで  
 **ファイルやフォルダのアイコンを取得するための「最小限の学習用ライブラリ」** です。
