@@ -24,7 +24,8 @@ WPF でアイコンを扱う最初のステップとして最適です。
 
 ## 📦 プロジェクト構成
 ```/src /BasicIconProvider BasicIconProvider.cs IconSize.cs ShellInterop.cs
-/BasicIconProviderSample MainWindow.xaml MainWindow.xaml.cs SampleFileItem.cs```
+/BasicIconProviderSample MainWindow.xaml MainWindow.xaml.cs SampleFileItem.cs
+```
 - **BasicIconProvider**  
   → ライブラリ本体（DLL）
 
