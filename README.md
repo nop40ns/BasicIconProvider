@@ -44,6 +44,10 @@ using BasicIconProvider;
 
 var icon = BasicIconProvider.GetIcon(@"C:\Windows\explorer.exe", IconSize.Large);
 ```
+## 🖼 Sample Application
+
+![Sample Screenshot](images/sample.png)
+
 
 ## 📄 License
 
