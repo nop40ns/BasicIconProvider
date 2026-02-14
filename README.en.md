@@ -1,4 +1,6 @@
-﻿# BasicIconProvider
+[日本語版 README → README.md](README.md)
+ 
+# BasicIconProvider
 
 **BasicIconProvider** is a **minimal learning-oriented library** for retrieving  
 **file and folder icons in WPF applications**.
