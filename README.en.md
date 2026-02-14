@@ -1,4 +1,6 @@
-﻿# BasicIconProvider
+[日本語版 README → README.md](README.md)
+ 
+# BasicIconProvider
 
 **BasicIconProvider** is a **minimal learning-oriented library** for retrieving  
 **file and folder icons in WPF applications**.
@@ -49,3 +51,4 @@ var icon = BasicIconProvider.GetIcon(@"C:\Windows\explorer.exe", IconSize.Large)
 
 This project is licensed under the MIT License.  
 See the LICENSE file for details.
+
